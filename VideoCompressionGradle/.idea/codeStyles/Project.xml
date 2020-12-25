@@ -1,0 +1,23 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="RIGHT_MARGIN" value="100" />
+    <option name="FORMATTER_TAGS_ENABLED" value="true" />
+    <ScalaCodeStyleSettings>
+      <option name="importLayout">
+        <array>
+          <option value="java" />
+          <option value="all other imports" />
+          <option value="scala" />
+        </array>
+      </option>
+      <option name="WRAP_BEFORE_WITH_KEYWORD" value="true" />
+      <option name="ALIGN_EXTENDS_WITH" value="1" />
+      <option name="SPACE_BEFORE_INFIX_METHOD_CALL_PARENTHESES" value="true" />
+      <option name="MULTILINE_STRING_SUPORT" value="0" />
+      <option name="PROCESS_MARGIN_ON_COPY_PASTE" value="false" />
+    </ScalaCodeStyleSettings>
+    <XML>
+      <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+    </XML>
+  </code_scheme>
+</component>
